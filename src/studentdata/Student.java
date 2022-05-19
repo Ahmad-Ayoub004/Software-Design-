@@ -8,6 +8,7 @@ package studentdata;
 public class Student {
 
     private String studentName;
+    private String progName;
 
     public Student(){}
 
