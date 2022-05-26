@@ -38,5 +38,9 @@ public class Student {
     public void setProgName(String progName) {
         this.progName = progName;
     }
+
+    void setStudentName(String nextLine) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }
 
