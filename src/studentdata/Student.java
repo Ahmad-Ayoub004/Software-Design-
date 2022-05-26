@@ -20,8 +20,9 @@ public class Student {
         return studentName;
     }
 
-    public void setStudentName(String studentName){
+    public void setStudentName(String studentName, String progName){
         this.studentName = studentName;
+        this.progName = progName;
     }
 
     /**
