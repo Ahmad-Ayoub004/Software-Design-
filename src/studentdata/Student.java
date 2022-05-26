@@ -5,7 +5,7 @@ package studentdata;
  *
  * @author Ahmad Ayoub
  */
-public class Student {
+public class Student{
 
     private String studentName;
     private String progName;
