@@ -1,7 +1,7 @@
 package studentdata;
 import java.util.Scanner;
 
-/* @author Stephen Paton */
+/* @author Ahmad Ayoub */
 public class StudentList {
 
     /**
