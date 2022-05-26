@@ -35,8 +35,8 @@ public class StudentList {
         }
 
         //print the list
-        for(Student s:studList){
-            System.out.println("Student Name: " + s.getStudentName() + "Program Name: " + s.getProgName());
+        for(var s:studList){
+            System.out.println(s.getStudentName() + "Student Name: " + "Program Name: " + s.getProgName());
         }
     }
 
